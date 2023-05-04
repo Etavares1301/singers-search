@@ -25,7 +25,7 @@
 <ol>
     <li>Clonar o repositório</li>
     <li>Abrir o Terminal na pasta do projeto</li>
-    <li>Execultar o comando 'npm i' para instação</li>
+    <li>Execultar o comando 'npm i --force' para instação</li>
 </ol>
 
 <h2> Como rodar o projeto</h2>
